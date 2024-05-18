@@ -1,0 +1,7 @@
+# Fdb version 4
+["pdflatex"] 1710505463 "{{cookiecutter.project_name}}.tex" "{{cookiecutter.project_name}}.pdf" "{{cookiecutter.project_name}}" 1710505464 2
+  (generated)
+  "{{cookiecutter.project_name}}.aux"
+  "{{cookiecutter.project_name}}.log"
+  "{{cookiecutter.project_name}}.pdf"
+  (rewritten before read)
